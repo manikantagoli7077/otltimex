@@ -1,0 +1,41 @@
+.loginPage {
+    background: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background: -o-linear-gradient(rgba(11,11,11,0.5), rgba(10,10,10,0.5), url("bg.jpg"));
+}
+.loginForm{
+    background-color: rgba(1,32,93,0.6);
+    color: white;
+}
+
+.otl{
+    background-color: aquamarine;
+    width: 46%;
+    float: left;
+    margin-left: 3%;
+    margin-right: 1%;
+    margin-top: 2%;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.timex{
+    background-color: cadetblue;
+    width: 46%;
+    float: right;
+    margin-right: 3%;
+    margin-left: 1%;
+    margin-top: 2%;
+    text-align: center;
+    border-radius: 10px;
+    align-items: center;
+    align-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+

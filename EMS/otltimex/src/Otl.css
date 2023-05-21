@@ -1,0 +1,80 @@
+.Mon{
+    width: 20%;
+    float: left;
+}
+.Tue
+{
+    Width:20%;
+    float: left;
+}
+.Wed
+{
+    Width:20%;
+    float: left;
+}
+.Thu
+{
+    Width:20%;
+    float: left;
+}
+.Fri
+{
+    Width:20%;
+    float: right;
+}
+.Sowd
+{
+    Width:20%;
+    float: left;
+}
+.Sowe
+{
+    Width:20%;
+    float: left;
+}
+.Cowd
+{
+    Width:20%;
+    float: left;
+}.Cowe
+{
+    Width:20%;
+    float: left;
+}
+.Soph
+{
+    Width:20%;
+    float: left;
+}
+.Coph
+{
+    Width:20%;
+    float: left;
+}
+
+
+
+input{
+    border-radius: 10px;
+}
+.week{
+    padding-top: 10px;
+}
+.week2{
+    margin-top: 10px;
+    padding-top: 70px;
+}
+.week3{
+    padding-top: 80px;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }

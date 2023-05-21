@@ -1,0 +1,36 @@
+.Mon{
+    width: 20%;
+    float: left;
+}
+.Tue
+{
+    Width:20%;
+    float: left;
+}
+.Wed
+{
+    Width:20%;
+    float: left;
+}
+.Thu
+{
+    Width:20%;
+    float: left;
+}
+.Fri
+{
+    Width:20%;
+    float: right;
+}
+
+.OverTime{
+   margin-top: 80px;
+
+}
+
+input{
+    border-radius: 10px;
+}
+.week{
+    padding-top: 10px;
+}
